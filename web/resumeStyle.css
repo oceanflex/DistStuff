@@ -1,0 +1,38 @@
+/* 
+    Created on : Jan 20, 2016, 12:14:27 PM
+    Author     : Zachary
+*/
+body{
+    max-width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 2px;
+    color: midnightblue;
+    background-color: cyan
+}
+h2{
+    padding: 2px
+}
+p{
+    width: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#intro{
+    margin-left: 5px;
+    margin-right: 5px;
+    width: inherit
+}
+footer{
+    opacity: 0.95;
+    background-color: whitesmoke;
+    line-height: 6px;
+    padding-top: 5px;
+    position: absolute;
+    padding-left: 5px;
+    padding-right: 5px;
+    left: 200px;
+    right: 200px;
+    bottom: 3px
+    
+}
